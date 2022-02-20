@@ -1,7 +1,7 @@
 # MoneyGram International
 
 ## Overview and Origin:
----
+
 
 ![moneygram_logo](Images/MoneyGram_Logo.png)
 
@@ -13,7 +13,7 @@ MoneyGram has been funded 5 times and has raised a total of $874M with it's last
 
 
 ## Business Activities:
----
+
 
 MoneyGram provides services that allow for money transfer and bill payments both in person and online, domestically in the US and across the world, to over 200 countries.
 
@@ -33,20 +33,20 @@ MoneyGram has also entered a partnership with CoinMe and Ripple to support crypt
 
 
 ## Landscape:
----
+
 
 MoneyGram and its competitors have gone through a digital transformation in the past few years, especially during the COVID pandemic. These companies have strived to ensure that they can provide their in-person and retail services, via their websites and mobile applications. 
 
 Some of these competitors and peers of MoneyGram include – Western Union, Wise (formerly TransferWise), Paypal, Remitly etc. 
 
 ## Results:
----
+
 
 MoneyGram has been leading the charge amongst its competitors by entering strategic partnerships with fintech and cryptocurrency startups to ensure they possess the capabilities to provide faster and cheaper transfer rates, not just limited to traditional currencies but also cryptocurrencies.
 
 
 ## Recommendations:
----
+
 In the years to come MoneyGram should focus on strengthening their digital platforms - website and mobile applications to provide their financial services with greater efficiency and to increase their reach to consumers globally.
     
 
