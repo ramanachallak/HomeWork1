@@ -58,3 +58,21 @@ In the years to come MoneyGram should focus on strengthening their digital platf
     
 MoneyGram would have to invest in getting into deals with providers of Iaas and Saas like Microsoft (Azure), Amazon (AWS) or Google (GCP/Google Cloud Platform). This will allow them to cut costs on expensive server farms and software development teams. Additionally, these providers would also be capable of providing strong analytics, Machine learning and AI solutions, that would help MoneyGram reach out to their global consumer base better and provide them with money transfer services efficiently.
 
+
+## References:
+
+- [Owler Competitors](https://www.owler.com/company/moneygram/competitors)
+
+- [BusinessInsider MoneyGram Japanese Fintech Smiles](https://markets.businessinsider.com/news/stocks/moneygram-launches-partnership-with-japanese-fintech-smiles-to-enable-international-money-transfers-1031095015)
+
+- [Smiles Blog MoneyGram Partnership](https://www.smileswallet.com/moneygram-partners-with-digital-wallet-corporation-to-expand-customer-centric-digital-capabilities-in-ja/)
+
+ - [Yahoo Finance Smiles MoneyGram Partnership](https://finance.yahoo.com/news/moneygram-launches-partnership-japanese-fintech-190900913.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAAHKmzTHPkxS6qvAvXiULCYCKifrJPDlQXAB48dNx0KjO8nAQFw8QxAFVwuAP8MHZWv5vo6wnqwy6KHME92bk5oCAAtUKJpc-Jn4DaBWq3wuPGkWaVRUkqnwqYttHNvacnpkYyFg9IjtaJOiiEcC0WZre046Zu_S5Kw1CjC_M7nPB)
+
+- [Yahoo Finance MGI Stock](https://finance.yahoo.com/quote/MGI/profile?p=MGI)
+
+- [Craft MoneyGram Competitors](https://craft.co/moneygram/competitors)
+
+- [Wikipedia MoneyGram](https://en.wikipedia.org/wiki/MoneyGram)
+
+- [American Banker MoneyGram Future](https://www.americanbanker.com/payments/news/how-moneygram-can-become-a-stronger-digital-competitor-by-going-private)
