@@ -51,9 +51,9 @@ In the years to come MoneyGram should focus on strengthening their digital platf
     
 
 
-| |  | |
-| :---         |     :---:      |          ---: |
-|![azure_logo](Images/Azure.png)   | ![aws_logo](Images/AWS.png)     | ![GCP_logo](Images/GCP.png)    |
+
+
+![azure_logo](Images/Azure.png)    ![aws_logo](Images/AWS.png)      ![GCP_logo](Images/GCP.png)    
 
     
 MoneyGram would have to invest in getting into deals with providers of Iaas and Saas like Microsoft (Azure), Amazon (AWS) or Google (GCP/Google Cloud Platform). This will allow them to cut costs on expensive server farms and software development teams. Additionally, these providers would also be capable of providing strong analytics, Machine learning and AI solutions, that would help MoneyGram reach out to their global consumer base better and provide them with money transfer services efficiently.
