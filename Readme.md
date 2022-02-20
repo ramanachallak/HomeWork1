@@ -3,11 +3,11 @@
 ## Overview and Origin:
 ---
 
-![moneygram_logo](images/MoneyGram_Logo.png)
+![moneygram_logo](Images/MoneyGram_Logo.png)
 
 MoneyGram is a financial technology company offering money transfer services (domestically and globally) and bill payment services for individuals and businesses. The current CEO and Chairman is W. Alexander Holmes. It is the second largest money transfer company with Western Union being the current leader in the domain of payments/billing and open banking, by a very close margin.
 
-<logo of WU and MG>
+![moneygram_logo](Images/WesternUnion_Logo.png)
 
 
 MoneyGram Systems was founded in 1988 as a subsidiary of Integrated payment systems, which was later rebranded to MoneyGram Payment Systems in 1996 after it became its own publicly traded company. In 1997 MoneyGram International was established as a partnership between MoneyGram Payment Systems and Thomas Cook Group, with MoneyGram Payment Systems owning 51% share, while 49% ownership went to Thomas Cook Group.
