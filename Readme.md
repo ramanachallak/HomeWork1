@@ -2,7 +2,7 @@
 
 ## Overview and Origin:
 ---
-<Logo>
+
 ![moneygram_logo](images/MoneyGram_Logo.png)
 
 MoneyGram is a financial technology company offering money transfer services (domestically and globally) and bill payment services for individuals and businesses. The current CEO and Chairman is W. Alexander Holmes. It is the second largest money transfer company with Western Union being the current leader in the domain of payments/billing and open banking, by a very close margin.
