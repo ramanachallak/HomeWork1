@@ -7,9 +7,6 @@
 
 MoneyGram is a financial technology company offering money transfer services (domestically and globally) and bill payment services for individuals and businesses. The current CEO and Chairman is W. Alexander Holmes. It is the second largest money transfer company with Western Union being the current leader in the domain of payments/billing and open banking, by a very close margin.
 
-![moneygram_logo](Images/WesternUnion_Logo.png)
-
-
 MoneyGram Systems was founded in 1988 as a subsidiary of Integrated payment systems, which was later rebranded to MoneyGram Payment Systems in 1996 after it became its own publicly traded company. In 1997 MoneyGram International was established as a partnership between MoneyGram Payment Systems and Thomas Cook Group, with MoneyGram Payment Systems owning 51% share, while 49% ownership went to Thomas Cook Group.
 
 MoneyGram has been funded 5 times and has raised a total of $874M with it's last round of funding being in July 2021 for an amount of $815M.
@@ -52,7 +49,12 @@ MoneyGram has been leading the charge amongst its competitors by entering strate
 ---
 In the years to come MoneyGram should focus on strengthening their digital platforms - website and mobile applications to provide their financial services with greater efficiency and to increase their reach to consumers globally.
     
-<Logos of Azure, AWS and GCP>
+
+
+| |  | |
+| :---         |     :---:      |          ---: |
+|![azure_logo](Images/Azure.png)   | ![aws_logo](Images/AWS.png)     | ![GCP_logo](Images/GCP.png)    |
+
     
 MoneyGram would have to invest in getting into deals with providers of Iaas and Saas like Microsoft (Azure), Amazon (AWS) or Google (GCP/Google Cloud Platform). This will allow them to cut costs on expensive server farms and software development teams. Additionally, these providers would also be capable of providing strong analytics, Machine learning and AI solutions, that would help MoneyGram reach out to their global consumer base better and provide them with money transfer services efficiently.
 
